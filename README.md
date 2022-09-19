@@ -1,5 +1,5 @@
 # Movie-Ticketing-System--by-Prabal-
-This is a movie ticketing system application made using python and SQL. Users can create accounts, use "wallet" feature , and rate movies. Whereas admins can read ,edit and delete user lists, user wallets,  check movie performances via graphs and more. 
+This is a movie ticketing system application made using Python and CSV. Users can create accounts, use "wallet" feature , and rate movies. Whereas admins can read ,edit and delete user lists, user wallets,  check movie performances via graphs and more. 
 
 STEPS:
 
@@ -14,3 +14,4 @@ NOTE: Please download the following python modlues before you run mts main.py:
       4. random
 
 The Rawat Movie Ticketing System is great to be used in a school project or even in a theater
+

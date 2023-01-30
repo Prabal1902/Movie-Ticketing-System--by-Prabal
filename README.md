@@ -8,9 +8,10 @@ STEPS:
 3. run and enjoy
 
 NOTE: Please download the following python modlues before you run mts main.py:
+      
       1. pandas 
       2. matplotlib.pyplot
-      3. csv 
+      3. csv       
       4. random
 
 The Rawat Movie Ticketing System is great to be used in a school project or even in a theater
